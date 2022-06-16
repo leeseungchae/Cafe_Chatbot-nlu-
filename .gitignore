@@ -20,7 +20,6 @@
 *.data
 *.json
 *.cfg
-*.csv
 *.model
 *.pickle
 *.mtx
@@ -29,7 +28,6 @@
 
 storage.googleapis.com
 runs/*
-data/*
 data/images/*
 !data/*.yaml
 !data/hyps
