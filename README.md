@@ -23,6 +23,7 @@
 
 #####  학습
 ###### 01_001_Bert_train
+![image](https://user-images.githubusercontent.com/96555334/174022447-ec183293-ed15-4aad-af2d-2e4cbcd56cdc.png)
 
 #####  예측
 ###### 01_001_bert_predict
