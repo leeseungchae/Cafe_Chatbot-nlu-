@@ -19,6 +19,7 @@
 
 #####   전처리 
 ######  01_001_Data_preprocessing
+![image](https://user-images.githubusercontent.com/96555334/174021488-c60b9a58-dc89-4ff3-b543-70d9c2b457b2.png)
 
 #####  학습
 ###### 01_001_Bert_train
