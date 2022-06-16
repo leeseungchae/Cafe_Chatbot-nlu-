@@ -14,8 +14,15 @@
 
 
 #####    수집 (AI허브 데이터)
+<br>
 ###### - 고객 음대 음성 소개 - 
 ###### - https://aihub.or.kr/aidata/30710
+
+
+#####   전처리 
+<br>
+######  01_001_Data_preprocessing
+
 
      
 
