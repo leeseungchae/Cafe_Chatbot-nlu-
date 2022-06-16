@@ -23,13 +23,17 @@
 
 #####  학습
 ###### 01_001_Bert_train
-![image](https://user-images.githubusercontent.com/96555334/174022447-ec183293-ed15-4aad-af2d-2e4cbcd56cdc.png)
+![image](https://user-images.githubusercontent.com/96555334/174022578-b51e3de5-326b-456e-852c-2d9133538ceb.png)
 
 #####  예측
 ###### 01_001_bert_predict
+![image](https://user-images.githubusercontent.com/96555334/174022609-e322e218-ab61-418e-aa1e-a3d9c810e976.png)
+
 
 ##### 서비스연동(텔레그램)
 ###### 01_001_Cafe_Chatbot
+![image](https://user-images.githubusercontent.com/96555334/174022678-658ff8b7-7f93-4b35-b071-d281613a78a8.png)
+
 
 
 
